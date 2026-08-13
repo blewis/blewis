@@ -56,7 +56,7 @@ Repositories:
 
 ### Hypermap Registry
 
-Hypermap Registry addressed a different problem: **how to discover useful geospatial information distributed across thousands of remote web services**.
+[Hypermap Registry](https://link.springer.com/article/10.1186/s40965-018-0051-x) addressed a different problem: **how to discover useful geospatial information distributed across thousands of remote web services**.
 
 It provided open infrastructure for harvesting, indexing, searching, and monitoring OGC, Esri REST, and related map services.
 
