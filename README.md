@@ -42,7 +42,7 @@ During nineteen years at Harvard CGA, I led or helped develop a series of open s
 
 ### AfricaMap / Harvard WorldMap
 
-AfricaMap began as an effort with Harvard art historian Suzanne Blier to bring geographically scattered scholarly materials together through a common map interface. It grew into **Harvard WorldMap**, a collaborative platform for publishing, combining, annotating, and sharing spatial information across disciplines.  WorldMap was integrated into Harvard Dataverse via GeoConnect.
+AfricaMap began as an effort with Harvard art historian Suzanne Blier to bring geographically scattered scholarly materials together through a common map interface. It grew into **[Harvard WorldMap]9https://gis.harvard.edu/projects/worldmap)**, a collaborative platform for publishing, combining, annotating, and sharing spatial information across disciplines.  WorldMap was integrated into Harvard Dataverse via GeoConnect.
 
 **My role:** Co-founded AfricaMap/Harvard WorldMap and led its technical and product development as it grew into a broadly used scholarly mapping platform.
 
