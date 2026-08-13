@@ -69,7 +69,7 @@ Repository:
 
 Beginning in the early 2010s, CGA collected a global archive of geolocated social-media records and experimented with ways to interact with billions of spatial observations in real time.
 
-Working with Todd Mostak, we developed **GEOPS**, an early GPU-accelerated spatial database. That work powered TweetMap and contributed to the technical lineage that became MapD and later OmniSci.
+Working with Todd Mostak, we developed **GEOPS**, an early GPU-accelerated spatial database. That work powered [TweetMap](https://gis.harvard.edu/geotweets-archive-v20) and contributed to the technical lineage that became MapD and later OmniSci.
 
 **My role:** Co-created the Harvard Geotweet Archive and worked with Todd Mostak on the original GEOPS GPU spatial-database effort and its application to interactive geospatial analysis.
 
@@ -79,7 +79,7 @@ Repositories:
 
 ### Billion Object Platform
 
-The **Billion Object Platform (BOP)** explored another route to extremely large spatial collections: indexing space, time, and text with Apache Solr/Lucene and making the resulting collections interactively searchable and mappable.
+The **[Billion Object Platform (BOP)](https://gis.harvard.edu/billion-object-platform-bop)** explored another route to extremely large spatial collections: indexing space, time, and text with Apache Solr/Lucene and making the resulting collections interactively searchable and mappable.
 
 The project included work on spatial and temporal faceting and on interfaces for exploring very large spatiotemporal datasets.
 
