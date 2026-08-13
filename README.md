@@ -1,8 +1,6 @@
 # Ben Lewis
 
-I'm interested in open systems and the areas between **geography, data, and artificial intelligence**.
-
-I created the **Open Inference Initiative**, where I am working on open spatial reasoning systems for climate, health, sustainable development, historical research, and other public-interest applications.
+I'm teaching AI to think spatially and created **The Open Inference Initiative**, which is focused on developing open spatial reasoning systems for climate, health, sustainable development, historical research, and other public-interest applications.
 
 From 2007 to 2026, I worked at Harvard University's **Center for Geographic Analysis (CGA)**, where I led of development of systems for collaborative mapping, spatial search, geospatial data discovery, and various forms of analysis. My work has increasingly focused on making messy collections of evidence accessible through spatial and conversational interfaces.
 
