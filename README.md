@@ -24,23 +24,23 @@ I am developing a conversational spatial evidence system for **The Atmosphere as
 
 The system brings together environmental measurements, modeled atmospheric data, land cover, facilities, population, place information, and documentary evidence for comparative study of industrial communities in the United States, South Africa, and Germany.
 
-The goal is to enable natural-language questions to return **bounded, inspectable spatial operations over documented evidence**.
+The goal is to enable natural-language questions over spatial information and respond with narrative, maps, and other documented evidence**.
 
 ### Trans-Atlantic Slave Trade Database / SlaveVoyages
 
-I have been developing an **AI-readiness and MCP-based evidence layer** for the Trans-Atlantic Slave Trade Database.
+I developed an AI-readiness MCP-based layer for the Trans-Atlantic Slave Trade Database.
 
-The work explores how natural-language questions can be translated into auditable operations over a mature scholarly database while preserving distinctions among source evidence, derived results, uncertainty, and scholarly interpretation.
+The work explores how natural-language questions can be translated into auditable operations over a scholarly database while preserving distinctions among internal and external source evidence, derived results, uncertainty, and scholarly interpretation.
 
 ---
 
 ## Selected Harvard CGA projects
 
-During nineteen years at Harvard CGA, I led or helped develop a series of open spatial platforms and research infrastructures. My role was generally **project leadership, system architecture, research collaboration, product design, and management of software development, not code authorship**.
+During nineteen years at Harvard CGA, I led the development of a series of open spatial platforms and research infrastructures. My role was generally grant writer, project leadership, system architecture, research collaboration, product design, and management of software development.
 
 ### AfricaMap / Harvard WorldMap
 
-AfricaMap began as an effort with Harvard art historian Suzanne Blier to bring geographically scattered scholarly materials together through a common map interface. It grew into **[Harvard WorldMap](https://gis.harvard.edu/projects/worldmap)**, a collaborative platform for publishing, combining, annotating, and sharing spatial information across disciplines.  WorldMap was integrated into Harvard Dataverse via GeoConnect.
+AfricaMap began as an effort with Harvard art historian Suzanne Blier to bring geographically scattered scholarly materials together through a common map interface. It grew into **[Harvard WorldMap](https://gis.harvard.edu/projects/worldmap)**, an open source collaborative platform for publishing, combining, annotating, and sharing spatial information across disciplines.  WorldMap was integrated into Harvard Dataverse via GeoConnect.
 
 **My role:** Co-founded AfricaMap/Harvard WorldMap and led its technical and product development as it grew into a broadly used scholarly mapping platform.
 
@@ -54,22 +54,22 @@ Repositories:
 
 ### Hypermap Registry
 
-[Hypermap Registry](https://link.springer.com/article/10.1186/s40965-018-0051-x) addressed a different problem: **how to discover useful geospatial information distributed across thousands of remote web services**.
+[Hypermap Registry](https://link.springer.com/article/10.1186/s40965-018-0051-x) addressed a different problem: how to discover useful geospatial information distributed across thousands of remote web services.
 
 It provided open infrastructure for harvesting, indexing, searching, and monitoring OGC, Esri REST, and related map services.
 
-**My role:** Co-developed Hypermap Registry and helped define its approach to scalable discovery and search of distributed geospatial web services.
+My role: Led development of Hypermap Registry and helped define its approach to scalable discovery and search of distributed geospatial web services.
 
 Repository:
 - [Hypermap-Registry](https://github.com/cga-harvard/Hypermap-Registry)
 
 ### Geotweet Archive / GEOPS / TweetMap
 
-Beginning in the early 2010s, CGA collected a global archive of geolocated social-media records and experimented with ways to interact with billions of spatial observations in real time.
+Beginning in the early 2010s, CGA started an attempt to harvard all tweets which had a location coordinate,  and developed several ways to interact with billions of spatial objects in real time.
 
-Working with Todd Mostak, we developed **GEOPS**, an early GPU-accelerated spatial database. That work powered [TweetMap](https://gis.harvard.edu/geotweets-archive-v20) and contributed to the technical lineage that became MapD and later OmniSci.
+Working with Todd Mostak, we developed **GEOPS**, an early GPU-accelerated spatial database. That work powered [TweetMap](https://gis.harvard.edu/geotweets-archive-v20) and contributed to the technical lineage that became MapD and later OmniSci and HEAVY.AI.
 
-**My role:** Co-created the Harvard Geotweet Archive and worked with Todd Mostak on the original GEOPS GPU spatial-database effort and its application to interactive geospatial analysis.
+My role: Co-created the Harvard Geotweet Archive and worked with Todd Mostak on the original GEOPS GPU spatial-database effort and its application to interactive geospatial analysis.
 
 Repositories:
 - [GeoTweets](https://github.com/cga-harvard/GeoTweets)
@@ -81,7 +81,7 @@ The **[Billion Object Platform (BOP)](https://gis.harvard.edu/billion-object-pla
 
 The project included work on spatial and temporal faceting and on interfaces for exploring very large spatiotemporal datasets.
 
-**My role:** Co-led the conception and development of BOP as an open platform for interactive search and visualization of billion-scale spatial and temporal records.
+**My role:** Co-led with David Smiley the conception and development of BOP as an open platform for interactive search and visualization of billion-scale spatial and temporal records.
 
 Repositories:
 - [bop-ui](https://github.com/cga-harvard/bop-ui)
@@ -89,11 +89,11 @@ Repositories:
 
 ### Geospatial big data and high-performance computing
 
-CGA also explored how GPU databases, distributed search, high-performance computing, and cloud infrastructure could make very large spatial datasets useful to researchers without requiring them to become systems engineers.
+CGA also explored how GPU databases, distributed search, high-performance computing, and cloud infrastructure could make large spatial datasets useful to researchers without requiring them to become systems engineers.
 
-This work included experiments with MapD/OmniSci, Solr, PostGIS, Harvard's research-computing infrastructure, large hydrological datasets, and other spatial-data visualization and processing challenges.
+This work included experiments with MapD/OmniSci, Solr, PostGIS, Harvard's research-computing infrastructure, large hydrological datasets, and other spatial-data visualization and processing use cases.
 
-**My role:** Helped establish and manage CGA's geospatial big-data program, connecting research problems with scalable computing and emerging database technologies.
+My role: Helped establish and manage CGA's geospatial big-data program, connecting research problems with scalable computing and emerging database technologies.
 
 Repositories:
 - [Evaluating_OmniSci_NWM](https://github.com/cga-harvard/Evaluating_OmniSci_NWM)
@@ -101,9 +101,9 @@ Repositories:
 
 ### Chinese Academic Mapping Platform (CAMP)
 
-CAMP was a Harvard–Zhejiang collaboration to adapt the WorldMap/GeoNode approach for academic mapping, research, teaching, and spatial-data sharing in China.
+CAMP was a Harvard–Zhejiang University collaboration to adapt the WorldMap/GeoNode approach for academic mapping, research, teaching, and spatial-data sharing in China.
 
-**My role:** Managed CGA's platform-development contribution and helped adapt the WorldMap architecture to the needs of the collaboration.
+My role: Managed CGA's platform-development contribution and helped adapt the WorldMap architecture to the needs of the collaboration.
 
 Repository:
 - [CAMP](https://github.com/cga-harvard/CAMP)
@@ -112,7 +112,7 @@ Repository:
 
 Much of WorldMap and related CGA work depended on the wider open-source geospatial ecosystem: GeoNode, GeoServer, GeoExplorer, Django, OpenLayers, and associated libraries and services.
 
-Rather than treating these as separate projects of mine, I regard them as the **technical substrate that CGA adapted and extended to support scholarly spatial collaboration**.
+These are the technical substrate that CGA adapted and extended to support scholarly spatial collaboration.
 
 Selected repositories:
 - [geonode](https://github.com/cga-harvard/geonode)
@@ -136,14 +136,12 @@ CGA's work also included historical-map georeferencing, digital-humanities infra
 
 ## What I am interested in now
 
-I am particularly interested in systems that combine:
+I am particularly interested in systems that combine: environmental, social, and historical evidence · natural-language interfaces · spatial and temporal indexing · deterministic computation · provenance and audit trails · AI-assisted scientific and scholarly reasoning.
 
-**spatial and temporal indexing · natural-language interfaces · deterministic computation · provenance and audit trails · environmental and historical evidence · large search systems · AI-assisted scientific and scholarly reasoning**
-
-The broader question behind much of this work is **Can we use the structure of the physical and historical world to make AI more useful and trustworthy?**
+The broader question behind much of this work is Can we use the structure of the physical and historical world to make AI more useful and trustworthy?
 
 ---
 
 **Open Inference Initiative**  
-Cambridge, Massachusetts / Minneapolis–St. Paul  
+Cambridge, Massachusetts / Minneapolis, Minnesota
 Harvard IQSS Associate
